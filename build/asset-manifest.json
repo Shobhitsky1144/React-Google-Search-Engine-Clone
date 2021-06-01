@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Google-Search-Engine-Clone/static/css/main.87931840.chunk.css",
+    "main.js": "/React-Google-Search-Engine-Clone/static/js/main.5d113931.chunk.js",
+    "main.js.map": "/React-Google-Search-Engine-Clone/static/js/main.5d113931.chunk.js.map",
+    "runtime-main.js": "/React-Google-Search-Engine-Clone/static/js/runtime-main.d7170699.js",
+    "runtime-main.js.map": "/React-Google-Search-Engine-Clone/static/js/runtime-main.d7170699.js.map",
+    "static/js/2.40f3ba29.chunk.js": "/React-Google-Search-Engine-Clone/static/js/2.40f3ba29.chunk.js",
+    "static/js/2.40f3ba29.chunk.js.map": "/React-Google-Search-Engine-Clone/static/js/2.40f3ba29.chunk.js.map",
+    "index.html": "/React-Google-Search-Engine-Clone/index.html",
+    "static/css/main.87931840.chunk.css.map": "/React-Google-Search-Engine-Clone/static/css/main.87931840.chunk.css.map",
+    "static/js/2.40f3ba29.chunk.js.LICENSE.txt": "/React-Google-Search-Engine-Clone/static/js/2.40f3ba29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7170699.js",
+    "static/js/2.40f3ba29.chunk.js",
+    "static/css/main.87931840.chunk.css",
+    "static/js/main.5d113931.chunk.js"
+  ]
+}
